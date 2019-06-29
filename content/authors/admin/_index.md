@@ -42,15 +42,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:florent.krzakala@ens.fr
-- icon: twitter
+- icon: youtube
   icon_pack: fab
-  link: https://twitter.com/krzakalaf
+  link: https://www.youtube.com/channel/UCSHbb0xOaJZJWPEB3nLDbRg
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/krzakala_f_1.html
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.fr/citations?user=3jDeUlMAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/krzakala
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/krzakalaf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
