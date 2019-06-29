@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   location = "Paris, France"
   date_start = "2013-09-01"
   date_end = ""
-  description = """
 
 [[experience]]
   title = "Maitre de Conference (Associate Professor)"
@@ -33,7 +32,6 @@ date_format = "Jan 2006"
   location = "Paris, France"
   date_start = "2004-09-01"
   date_end = "2013-08-31"
-  description = """
 
 [[experience]]
   title = "Post-doctorat"
