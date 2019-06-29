@@ -42,6 +42,6 @@ date_format = "Jan 2006"
   location = "Rome, Italy"
   date_start = "2002-09-01"
   date_end = "2004-08-31"
-  description = """Post-doctorat in Giorgio Parisi's group"
+  description = """Post-doctorat in Giorgio Parisi's group"""
 
 +++
