@@ -10,7 +10,7 @@ subtitle = ""
 widget = "CV"
 
 # CV location
-cv_pdf = "./files/Tanedo.pdf"
+cv_pdf = "http://www.lps.ens.fr/~krzakala/cv_krzakala.pdf"
 
 # group logo location
 group_logo = "./img/identity/UCRHEP_03.png"
@@ -71,11 +71,3 @@ weight = 2
 
 
 +++
-
-**Flip Tanedo** is an assistant professor in theoretical physics at the University of California, Riverside. His research focuses on models and signatures of physics beyond the Standard Model, including dark matter, supersymmetry, and extra dimensions. His creative thinking is often done while swimming or stuck in traffic.
-
-<!--
-* UCI Chancellor's Advance Postdoctoral Fellow (2014 - 2015)
-* Paul & Daisy Soros Fellowship for New Americans (2010 - 2012)
-* NSF Graduate Research Fellow (2006 - 2011)
-* Marshall Scholarship (2006 - 2008) -->
