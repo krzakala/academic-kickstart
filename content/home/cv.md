@@ -17,57 +17,42 @@ group_logo = "http://vignette4.wikia.nocookie.net/eberron/images/7/7c/114862_CN_
 group_name = "Sphinx TEAM"
 
 # Order that this section will appear in.
-weight = 2
+weight = 3
 
 # List your academic interests.
 [interests]
   interests = [
-    "Dark Matter",
-    "Supersymmetry",
-    "Composite Higgs",
-    "Extra Dimensions",
-    "Phenomenology",
-    "Astro/cosmo-particle"
+    "Statistical Physics",
+    "Machine learning",
+    "Random Optimization Problems",
+    "Inference on graphs",
+    "Information theory",
+    "Computational optics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Physics"
-  institution = "Cornell University"
-  year = 2013
+  course = "Postdoc"
+  institution = "Roma, La Sapienza"
+  year = 2004
+  
+[[education.courses]]
+  course = "PhD in Statistical Physics"
+  institution = "Orsay, Paris XI"
+  year = 2002
 
 [[education.courses]]
   course = "MSc in Physics"
-  institution = "Durham University / IPPP"
-  year = 2008
-
-[[education.courses]]
-  course = "MASt in Mathematics"
-  institution = "Cambridge University"
-  year = 2007
-
-[[education.courses]]
-  course = "BS in Physics & Mathematics"
-  institution = "Stanford University"
-  year = 2008
-
+  institution = "Orsay, Paris XI"
+  year = 1999
 
 # List your honors
 [[honor.fellowships]]
-  name = "UCI Chancellor's Advance Postdoctoral Fellow"
-  years = "2014 - 2015"
+  name = "Member of the Insitut Universitaire de France"
+  years = "2015 - ..."
 
 [[honor.fellowships]]
-    name = "Paul & Daisy Soros Fellowship for New Americans"
-    years = "2010 - 2012"
-
-[[honor.fellowships]]
-    name = "NSF Graduate Research Fellow"
-    years = "2006 - 2011"
-
-[[honor.fellowships]]
-    name = "Marshall Scholarship"
-    years = "2006 - 2008"
-
+    name = "Holder of the chair CFM-ENS on datascience"
+    years = "2016 - ..."
 
 +++
