@@ -20,20 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Statistical Physics, Machine Learning, Statistics, Computer Science, and Computational Optics. 
 
-interests:
-- Statistical Physics
-- Machine learning 
-- Random Optimization Problems
-- Inverse problems on Graphs
-- Coding & Information theory
-- Computational Optics
-
-education:
-  courses:
-  - course: PhD in Statistical Physics
-    institution: Orsay, Paris XI
-    year: 2002
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
