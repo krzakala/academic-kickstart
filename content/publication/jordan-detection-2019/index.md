@@ -1,5 +1,5 @@
 ---
-title: "DETECTION LIMITS IN THE SPIKED WIGNER MODEL"
+title: "Detection limits in the spiked Wigner model"
 date: 2019-01-01
 publishDate: 2019-07-01T15:35:42.128700Z
 authors: ["M. I. Jordan", "Florent Krzakala", "A. E. Alaoui"]
