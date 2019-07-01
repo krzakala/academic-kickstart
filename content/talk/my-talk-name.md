@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Talk Name"
+title: "Statistical Physics and Machine Learning: Old Ideas for New Problems"
 subtitle: ""
 summary: ""
 authors: []
@@ -11,6 +11,10 @@ date: 2019-07-01T19:38:59+02:00
 lastmod: 2019-07-01T19:38:59+02:00
 featured: false
 draft: false
+
+url_pdf = "http://online.kitp.ucsb.edu/online/machine_c19/krzakala/pdf/Krzakala_Machine19Conf_KITP.pdf"
+url_slides = "http://online.kitp.ucsb.edu/online/machine_c19/krzakala/"
+url_video = "http://online.kitp.ucsb.edu/online/machine_c19/krzakala/rm/jwvideo.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
