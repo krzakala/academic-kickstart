@@ -2,8 +2,8 @@
 title: "Mutual information for symmetric rank-one matrix estimation: A proof of the replica formula"
 date: 2016-01-01
 publishDate: 2019-07-01T15:35:42.105455Z
-authors: ["jean barbier", "Mohamad Dia", "Nicolas Macris", "Florent Krzakala", "Thibault Lesieur", "Lenka Zdeborová"]
-publication_types: ["6"]
+authors: ["Jean Barbier", "Mohamad Dia", "Nicolas Macris", "Florent Krzakala", "Thibault Lesieur", "Lenka Zdeborová"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Advances in Neural Information Processing Systems 29*"
