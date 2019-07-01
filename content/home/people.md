@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "The SPHINX group"
-subtitle = "Meet the team working in the Sphinx Group. Our research group embodies physicists, mathematicians, and computer scientists, working together. We also enjoy a long-standing collaboration with the SMILE team of Lenka Zdeborova."
+subtitle = "Meet the team working in the Sphinx Group. Our research group embodies physicists, mathematicians, and computer scientists, working together. We also enjoy a long-standing collaboration with the SMILE team of <a href="http://artax.karlin.mff.cuni.cz/~zdebl9am/">Lenka Zdeborova</a>."
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
