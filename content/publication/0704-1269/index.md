@@ -6,7 +6,7 @@ authors: ["Lenka Zdeborová", "Florent Krzakala"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: ""
+publication: "Phys. Rev. E 76, 031131 "
 doi: "10.1103/PhysRevE.76.031131"
 ---
 
