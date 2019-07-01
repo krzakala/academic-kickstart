@@ -3,7 +3,7 @@ title: "The committee machine: Computational to statistical gaps in learning a t
 date: 2018-01-01
 publishDate: 2019-07-01T15:35:42.123828Z
 authors: ["Benjamin Aubin", "Antoine Maillard", "jean barbier", "Florent Krzakala", "Nicolas Macris", "Lenka Zdeborová"]
-publication_types: ["6"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Advances in Neural Information Processing Systems 31*"
