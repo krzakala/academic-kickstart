@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Florent Krzakala
+name: Robert de Niro
 
 # Username (this should match the folder name)
 authors:
-- admin
+- author1
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor
+role: Phd
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,8 @@ email: "florent.krzakala@ens.fr"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+- Researchers
+- Visitors
 ---
 
 Florent Krzakala is a professor at Sorbonne Université and a Researcher at Ecole Normale Superieure in Paris. His research interests include Statistical Physics, Machine Learning, Statistics, Computer Science and Computational Optics. He leads the SPHINX “Statistical PHysics of INformation eXtraction” team in Ecole Normale in Paris, and is the holder of the CFM-ENS Datascience chair.
