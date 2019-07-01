@@ -16,8 +16,8 @@ height = "500"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "Some recent talk online"
+  content = "Click here for the youtube channel, or browe with the arrows"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,8 +29,8 @@ height = "500"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "See the talk"
-  cta_url = "http://online.kitp.ucsb.edu/online/machine_c19/krzakala/"
+  cta_label = "Youtube Channel"
+  cta_url = "https://www.youtube.com/playlist?list=PLvKBgJ4p0p3yNIJfnNx0BA4EKAHg3eOT-"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
