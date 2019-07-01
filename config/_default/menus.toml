@@ -11,17 +11,22 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Teaching"
   url = "#posts"
-  weight = 20
+  weight = 40
+
+[[main]]
+  name = "SPHINX group"
+  url = "#people"
+  weight = 50
   
 [[main]]
   name = "Contact"
