@@ -61,4 +61,32 @@ height = "500"
   cta_url = "http://online.kitp.ucsb.edu/online/machine_c19/krzakala/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
+  
+[[item]]
+  title = "Rigourous proof of the Replica Formula for Low-Rank Factorization"
+  content = "A lecture at the 2018 Beg Rohu school on Deep Learning"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "begrohu2018.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Watch talk"
+  cta_url = "https://www.youtube.com/watch?v=kLN613yeI2Q&list=PLvKBgJ4p0p3yNIJfnNx0BA4EKAHg3eOT-&index=1"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+  
+[[item]]
+  title = "On Statistical Physics of Inference"
+  content = "Disordered serendipity: a glassy path to discovery; A workshop in honour of Giorgio Parisi's 70th birthday"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "roma2018.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Watch talk"
+  cta_url = "https://www.youtube.com/watch?v=dFCghDh2aQE&list=PLvKBgJ4p0p3yNIJfnNx0BA4EKAHg3eOT-&index=2"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
 +++
