@@ -3,7 +3,7 @@ title: "Matrix Completion from Fewer Entries: Spectral Detectability and Rank Es
 date: 2015-01-01
 publishDate: 2019-07-01T15:35:42.091300Z
 authors: ["Alaa Saade", "Florent Krzakala", "Lenka Zdeborová"]
-publication_types: ["6"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Advances in Neural Information Processing Systems 28*"
