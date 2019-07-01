@@ -8,13 +8,13 @@ title = "Former members..."
 subtitle = "... and where to find them"
 
 # Order that this section will appear in.
-weight = 5
+weight = 50
 
 [[collaborator]]
-	id = "Josh Tenenbaum"
-	image = "josh_tenenbaum.jpg"
-	position = "MIT"
-	link = "http://web.mit.edu/cocosci/josh.html"
+	id = "Jean Barbier"
+	image = "jean.barbier.jpg"
+	position = "Professor at ICTP Trieste"
+	link = "https://www.ictp.it/phonebook/person?id=3200"
 	show = true
 
 [[collaborator]]
