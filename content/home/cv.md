@@ -48,6 +48,10 @@ weight = 3
 
 # List your honors
 [[honor.fellowships]]
+  name = "Professor UPMC and Researcher at Ecole Normale Superieure, Paris"
+  years = "Since 2013"
+  
+[[honor.fellowships]]
   name = "Member of the Insitut Universitaire de France"
   years = "Since 2015"
 
@@ -64,7 +68,11 @@ weight = 3
     years = "2016"
 
 [[honor.fellowships]]
-  name = "Professor UPMC and Researcher at Ecole Normale Superieure, Paris"
-  years = "Since 2013"
+    name = "Visiting Scientist @ Los Alamos National Labs"
+    years = "2008"
+    
+[[honor.fellowships]]
+  name = "Maitre de Conference (Associate Professor) in ESPCI Paristech"
+  years = "2004 - 2013"
 
 +++
