@@ -1,0 +1,13 @@
+---
+title: "On the relation between kinetically constrained models of glass dynamics and the random first-order transition theory"
+date: 2012-06-01
+publishDate: 2019-07-01T15:35:42.056608Z
+authors: ["Laura Foini", "Florent Krzakala", "Francesco Zamponi"]
+publication_types: ["2"]
+abstract: "In this paper we revisit and extend the mapping between two apparently different classes of models. The first class contains the prototypical models described—at the mean-field level—by the random first-order transition (RFOT) theory of the glass transition, called either the ‘random XORSAT problem’ (in the information theory community) or the ‘diluted p-spin model’ (in the spin glass community), undergoing a single spin-flip Glauber dynamics. The models in the second class are kinetically constrained models (KCM): their Hamiltonian is that of independent spins in a constant magnetic field, hence their thermodynamics is completely trivial, but the dynamics is such that only groups of spins can flip together, thus implementing a kinetic constraint that induces a non-trivial dynamical behavior. A mapping between some representatives of these two classes has been known for a long time. Here we formally prove this mapping at the level of the master equation, and we apply it to the particular case of Bethe lattice models. This allows us to show that an RFOT model can be mapped exactly into a KCM. However, the natural order parameter for the RFOT model, namely the spin overlap, is mapped into a very complicated non-local function in the KCM. Therefore, if one were to study the KCM without knowing the mapping onto the RFOT model, one would guess that its physics is quite different from the RFOT one. Our results instead suggest that these two apparently different descriptions of the glass transition are, at least in some cases, closely related."
+featured: false
+publication: "*J. Stat. Mech.*"
+url_pdf: "https://doi.org/10.1088%2F1742-5468%2F2012%2F06%2Fp06013"
+doi: "10.1088/1742-5468/2012/06/P06013"
+---
+
