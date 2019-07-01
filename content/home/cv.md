@@ -13,8 +13,8 @@ widget = "CV"
 cv_pdf = "http://www.lps.ens.fr/~krzakala/cv_krzakala.pdf"
 
 # group logo location
-group_logo = "http://vignette4.wikia.nocookie.net/eberron/images/7/7c/114862_CN_GL.jpg/revision/latest?cb=20111007220917"
-group_name = "Sphinx TEAM"
+# group_logo = "http://vignette4.wikia.nocookie.net/eberron/images/7/7c/114862_CN_GL.jpg/revision/latest?cb=20111007220917"
+# group_name = "Sphinx TEAM"
 
 # Order that this section will appear in.
 weight = 3
