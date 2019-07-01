@@ -3,15 +3,15 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "500"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -29,8 +29,8 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "See the talk"
+  cta_url = "http://online.kitp.ucsb.edu/online/machine_c19/krzakala/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
