@@ -49,10 +49,22 @@ weight = 3
 # List your honors
 [[honor.fellowships]]
   name = "Member of the Insitut Universitaire de France"
-  years = "2015 - ..."
+  years = "Since 2015"
 
 [[honor.fellowships]]
     name = "Holder of the chair CFM-ENS on datascience"
-    years = "2016 - ..."
+    years = "Since 2016"
+
+[[honor.fellowships]]
+    name = "Visiting Professor @ Duke University"
+    years = "2018"
+
+[[honor.fellowships]]
+    name = "Visiting Scientist @ Simons Institute in Berkeley"
+    years = "2016"
+
+[[honor.fellowships]]
+  name = "Professor UPMC and Researcher at Ecole Normale Superieure, Paris"
+  years = "Since 2013"
 
 +++
