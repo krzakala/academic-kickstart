@@ -25,10 +25,10 @@ weight = 69
 	show = true
 
 [[collaborator]]
-	id = "Christopher Schukle"
+	id = "Christophe Schulke"
 	image = "chris.schulke.jpg"
 	position = "Phillips research"
-	link = ""
+	link = "https://de.linkedin.com/in/christophe-sch%C3%BClke-2bb50374"
 	show = true
 
 [[collaborator]]
