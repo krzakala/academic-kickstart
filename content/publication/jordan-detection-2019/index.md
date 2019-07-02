@@ -6,7 +6,7 @@ authors: ["M. I. Jordan", "Florent Krzakala", "A. E. Alaoui"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: ""
+publication: "annals of statistics"
 url_pdf: "https://www.imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/"
 ---
 
