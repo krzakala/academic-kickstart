@@ -15,7 +15,7 @@ role: Professor
 # Organizations/Affiliations
 organizations:
 - name: Sorbonne Université and Ecole Normale Superieure
-  url: ""
+  url: "http://lpens.phys.ens.fr/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Statistical Physics, Machine Learning, Statistics, Computer Science, and Computational Optics. 
@@ -58,4 +58,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Florent Krzakala is a professor at Sorbonne Université and a Researcher at Ecole Normale Superieure in Paris. His research interests include Statistical Physics, Machine Learning, Statistics, Computer Science and Computational Optics. He leads the SPHINX “Statistical PHysics of INformation eXtraction” team in Ecole Normale in Paris, and is the holder of the CFM-ENS Datascience chair.
+Florent Krzakala is a professor at Sorbonne Université and a Researcher at Ecole Normale Superieure in Paris. His research interests include Statistical Physics, Machine Learning, Statistics, Computer Science and Computational Optics. He leads the SPHINX “Statistical PHysics of INformation eXtraction” team in Ecole Normale in Paris, and is the holder of the [CFM-ENS Datascience chair](https://data-ens.github.io/).
+
+
