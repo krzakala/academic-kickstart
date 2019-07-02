@@ -66,4 +66,33 @@ weight = 69
 	link = "http://angelique.dremeau.free.fr/Site_anglais/Home.html"
 	show = true
 
+[[collaborator]]
+	id = "Francesco Caltagirone"
+        image = "fra.calta.jpg"
+	position = "SNIPS inc."
+	link = "https://fr.linkedin.com/in/francesco-caltagirone-90204934"
+	show = true
+
+
+[[collaborator]]
+        id = "Sun Yifan"
+        image = "sun.yifan.jpg"
+        position =  "Lecturer @ Renmin Univ. China"
+        link = "https://www.linkedin.com/in/sun-yifan-921a3957"
+        show = true
+
+[[collaborator]]
+        id = "Boshra Rajaei"
+        image = "boshra.rajaei.jpg"
+        position =  "Assoc. Prof. @ Sadjad Univ."
+        link = "https://boshra-rajaei.webs.com/"
+        show = true
+	
+[[collaborator]]
+	id = "Alejandro Lage-Castellanos"
+	image = "ale.lage.jpg"
+	position =  "Prof. La Havana"
+        link = "https://www.researchgate.net/profile/Alejandro_Lage-Castellanos"
+	show = true
+
 +++
