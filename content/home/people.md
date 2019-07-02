@@ -16,8 +16,10 @@ user_groups = ["Grad Students",
 +++
 
 The SPHINX team acknodlegde funding from:
-![ERC](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "ERC")
-![ANR](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "ANR")
-![CFM](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "CFM")
-![PRAIRIE](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "PRAIRIE")
+![ERC](https://github.com/krzakala/academic-kickstart/blob/master/static/img/logo_ANR.jpg "ERC")
 
+![ANR](https://github.com/krzakala/academic-kickstart/blob/master/static/img/logo_ANR.jpg "ANR")
+
+![CFM](https://github.com/krzakala/academic-kickstart/blob/master/static/img/logo_CFM.jpg "CFM")
+
+![PRAIRIE](https://github.com/krzakala/academic-kickstart/blob/master/static/img/logo_PTRAIRIE.jpg "PRAIRIE")
