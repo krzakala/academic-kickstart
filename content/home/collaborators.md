@@ -13,7 +13,7 @@ weight = 69
 [[collaborator]]
 	id = "Jean Barbier"
 	image = "jean.barbier.jpg"
-	position = "Professor at ICTP Trieste"
+	position = "Prof. @ ICTP Trieste"
 	link = "https://www.ictp.it/phonebook/person?id=3200"
 	show = true
 
@@ -34,8 +34,36 @@ weight = 69
 [[collaborator]]
 	id = "Pan Zhang"
 	image = "Pan.Zhang.jpg"
-	position = "Professor Chinese Academy of Sciences"
+	position = "Prof. @ Chinese Acad. Sci."
 	link = "http://lib.itp.ac.cn/html/panzhang/"
+	show = true
+
+[[collaborator]]
+        id = "Laura Foini"
+        image = "laura.foini.jpg"
+        position = "CNRS research, Saclay"
+        link = "https://scholar.google.fr/citations?user=hbuu7K8AAAAJ&hl=en"
+        show = true
+
+[[collaborator]]
+	id = "Eric Trammel"
+        image = "eric.trammel.jpg"
+	position = "Owkin inc."
+	link = "http://eric-tramel.github.io/about/"
+	show = true
+
+[[collaborator]]
+	id = "Andre Manodel"
+        image = "andre.manoel.jpg"
+	position = "Owkin inc."
+	link = "https://owkin.com/About-Us/"
+	show = true
+
+[[collaborator]]
+	id = "Angelique Dremeau"
+        image = "angelique.dremeau.jpg"
+	position = "Assoc. Prof. @ ENSTA"
+	link = "http://angelique.dremeau.free.fr/Site_anglais/Home.html"
 	show = true
 
 +++
