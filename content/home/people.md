@@ -16,5 +16,4 @@ user_groups = ["Grad Students",
 +++
 
 The SPHINX team acknowledge funding from:
-
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Agence_Nationale_de_la_Recherche.svg/1599px-Agence_Nationale_de_la_Recherche.svg.png" alt="ANR" width="200"/><img src="http://www.fondation-cfm.fr/contents/themes/CFM/img/export/logo_CFM.png" alt="CFM" width="200"/><img src="https://europe.naverlabs.com/wp-content/uploads/2018/03/PAISS_2_mainstory1.jpg" alt="PRAIRIE" width="200"/><img src="https://erc.europa.eu/sites/default/files/LOGO_ERC.jpg" alt="ERC" width="150"/>
+<img src="http://www.lps.ens.fr/~krzakala/sponsor.png" alt="fundings" width="600"/>
