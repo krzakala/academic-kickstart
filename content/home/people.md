@@ -14,3 +14,10 @@ user_groups = ["Grad Students",
                "Postdocs",
 	       "Master Students"]
 +++
+
+The SPHINX team acknodlegde funding from:
+![ERC](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "ERC")
+![ANR](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "ANR")
+![CFM](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "CFM")
+![PRAIRIE](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "PRAIRIE")
+
