@@ -15,13 +15,12 @@ user_groups = ["Grad Students",
 	       "Master Students"]
 +++
 
-<img src="../../static/img/logo_erc.jpg" alt="drawing" width="200"/>
+The SPHINX team acknowledge funding from:
 
-The SPHINX team acknodlegde funding from:
-![ERC](../../static/img/logo_erc.jpg =250x)
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Agence_Nationale_de_la_Recherche.svg/1599px-Agence_Nationale_de_la_Recherche.svg.png" alt="ANR" width="200"/>
 
-![ANR](../../static/img/logo_ANR.jpg "ANR")
+<img src="http://www.fondation-cfm.fr/contents/themes/CFM/img/export/logo_CFM.png" alt="CFM" width="200"/>
 
-![CFM](../../static/img/logo_CFM.jpg "CFM")
+<img src="https://europe.naverlabs.com/wp-content/uploads/2018/03/PAISS_2_mainstory1.jpg" alt="PRAIRIE" width="200"/>
 
-![PRAIRIE](../../static/img/logo_PTRAIRIE.jpg "PRAIRIE")
+<img src="https://erc.europa.eu/sites/default/files/LOGO_ERC.jpg" alt="ERC" width="200"/>
