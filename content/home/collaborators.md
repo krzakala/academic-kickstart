@@ -67,7 +67,7 @@ weight = 69
 	show = true
 
 [[collaborator]]
-	id = "Francesco Caltagirone"
+	id = "Fra Caltagirone"
         image = "fra.calta.jpg"
 	position = "SNIPS inc."
 	link = "https://fr.linkedin.com/in/francesco-caltagirone-90204934"
