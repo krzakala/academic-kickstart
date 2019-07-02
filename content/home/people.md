@@ -18,8 +18,8 @@ user_groups = ["Grad Students",
 The SPHINX team acknodlegde funding from:
 ![ERC](../../static/img/logo_erc.jpg "ERC")
 
-![ANR](logo_ANR.jpg "ANR")
+![ANR](../../static/img/logo_ANR.jpg "ANR")
 
-![CFM](logo_CFM.jpg "CFM")
+![CFM](../../static/img/logo_CFM.jpg "CFM")
 
-![PRAIRIE](logo_PTRAIRIE.jpg "PRAIRIE")
+![PRAIRIE](../../static/img/logo_PTRAIRIE.jpg "PRAIRIE")
