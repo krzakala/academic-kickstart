@@ -89,4 +89,19 @@ height = "500"
   cta_url = "https://www.youtube.com/watch?v=dFCghDh2aQE&list=PLvKBgJ4p0p3yNIJfnNx0BA4EKAHg3eOT-&index=2"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
+
+[[item]]
+  title = "How Does Gradient Descent Find a Good Minima, Instead of Spurious Ones?"
+  content = "Talk given at the Flatiron institute in Newyork, April 30, 2019"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "flatiron2019.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "Watch talk"
+  cta_url = "https://www.youtube.com/watch?v=eA2CodjYNRs&list=PLvKBgJ4p0p3yNIJfnNx0BA4EKAHg3eOT-&index=16"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+  
 +++
