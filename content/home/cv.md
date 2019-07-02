@@ -58,10 +58,6 @@ weight = 3
 [[honor.fellowships]]
     name = "Holder of the chair CFM-ENS on datascience"
     years = "Since 2016"
-
-[[honor.fellowships]]
-  name = "Funder and scientific advisor of the startup" [Lighton](http://www.lighton.ai)
-  years = "2016"
   
 [[honor.fellowships]]
     name = "Visiting Professor @ Duke University"
