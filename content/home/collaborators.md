@@ -89,7 +89,7 @@ weight = 69
         show = true
 	
 [[collaborator]]
-	id = "Alejandro Lage-Castellanos"
+	id = "Ale. Lage-Castellanos"
 	image = "ale.lage.jpg"
 	position =  "Prof. La Havana"
         link = "https://www.researchgate.net/profile/Alejandro_Lage-Castellanos"
