@@ -60,6 +60,7 @@ user_groups:
 
 Florent Krzakala is a professor at Sorbonne Université and a Researcher at Ecole Normale Superieure in Paris. His research interests include Statistical Physics, Machine Learning, Statistics, Computer Science and Computational Optics. He leads the SPHINX “Statistical PHysics of INformation eXtraction” team in Ecole Normale in Paris, and is the holder of the [CFM-ENS Datascience chair](https://data-ens.github.io/).
 
-
-<img src="https://i1.wp.com/campuscom.fr/wp-content/uploads/2018/01/LOGO_SU_HORIZ_SEUL_RVB.jpg" alt="P6" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Logotype_de_%C3%89cole_normale_sup%C3%A9rieure.svg/440px-Logotype_de_%C3%89cole_normale_sup%C3%A9rieure.svg.png" alt="ENS" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/CNRS.svg/300px-CNRS.svg.png" alt="CNRS" width="200"/><img src="http://vignette4.wikia.nocookie.net/eberron/images/7/7c/114862_CN_GL.jpg" alt="SPHINX" width="150"/>
+<p float="left">
+<img src="https://i1.wp.com/campuscom.fr/wp-content/uploads/2018/01/LOGO_SU_HORIZ_SEUL_RVB.jpg" alt="P6" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Logotype_de_%C3%89cole_normale_sup%C3%A9rieure.svg/440px-Logotype_de_%C3%89cole_normale_sup%C3%A9rieure.svg.png" alt="ENS" width="150"/><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/CNRS.svg/300px-CNRS.svg.png" alt="CNRS" width="150"/><img src="http://vignette4.wikia.nocookie.net/eberron/images/7/7c/114862_CN_GL.jpg" alt="SPHINX" width="150"/>
+</p>
 
