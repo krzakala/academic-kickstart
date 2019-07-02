@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ruben Ohana Ohana
+name: Ruben Ohana
 
 # Username (this should match the folder name)
 authors:
