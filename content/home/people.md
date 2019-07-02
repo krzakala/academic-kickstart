@@ -12,5 +12,5 @@ subtitle = "Meet the team working in the Sphinx Group. Our interdisplinary resea
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Grad Students",
                "Postdocs",
-	       "Master students"]
+	       "Master Students"]
 +++
