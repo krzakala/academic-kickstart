@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Computational Science"
-summary: "Lecture given in the international master Physics of Complex Systems"
+title: "Computation Science"
+summary: "Lecture given in the international master Physics of Complex Systems on computational science"
 authors: [Florent Krzakala]
 tags: []
 categories: []
