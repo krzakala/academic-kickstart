@@ -53,15 +53,15 @@ weight = 69
 	show = true
 
 [[collaborator]]
-	id = "Andre Manodel"
-        image = "andre.manoel.jpg"
+	id = "Andre Manoel"
+  image = "andre.manoel.jpg"
 	position = "Owkin inc."
 	link = "https://owkin.com/About-Us/"
 	show = true
 
 [[collaborator]]
 	id = "Angelique Dremeau"
-        image = "angelique.dremeau.jpg"
+  image = "angelique.dremeau.jpg"
 	position = "Assoc. Prof. @ ENSTA"
 	link = "http://angelique.dremeau.free.fr/Site_anglais/Home.html"
 	show = true
