@@ -77,7 +77,7 @@ weight = 69
 [[collaborator]]
         id = "Sun Yifan"
         image = "sun.yifan.jpg"
-        position =  "Lecturer @ Renmin Univ. China"
+        position =  "Lecturer @ Renmin Univ."
         link = "https://www.linkedin.com/in/sun-yifan-921a3957"
         show = true
 
@@ -89,7 +89,7 @@ weight = 69
         show = true
 	
 [[collaborator]]
-	id = "Ale. Lage-Castellanos"
+	id = "Alejandro Lage"
 	image = "ale.lage.jpg"
 	position =  "Prof. La Havana"
         link = "https://www.researchgate.net/profile/Alejandro_Lage-Castellanos"
