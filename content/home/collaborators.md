@@ -60,13 +60,6 @@ weight = 69
 	show = true
 
 [[collaborator]]
-	id = "Angelique Dremeau"
-  image = "angelique.dremeau.jpg"
-	position = "Assoc. Prof. @ ENSTA"
-	link = "http://angelique.dremeau.free.fr/Site_anglais/Home.html"
-	show = true
-
-[[collaborator]]
 	id = "Fra Caltagirone"
         image = "fra.calta.jpg"
 	position = "SNIPS inc."
@@ -95,4 +88,11 @@ weight = 69
         link = "https://www.researchgate.net/profile/Alejandro_Lage-Castellanos"
 	show = true
 
+[[collaborator]]
+	id = "Angelique Dremeau"
+  image = "angelique.dremeau.jpg"
+	position = "Assoc. Prof. @ ENSTA"
+	link = "http://angelique.dremeau.free.fr/Site_anglais/Home.html"
+	show = true
+  
 +++
