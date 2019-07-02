@@ -15,6 +15,8 @@ user_groups = ["Grad Students",
 	       "Master Students"]
 +++
 
+<img src="../../static/img/logo_erc.jpg" alt="drawing" width="200"/>
+
 The SPHINX team acknodlegde funding from:
 ![ERC](../../static/img/logo_erc.jpg =250x)
 
