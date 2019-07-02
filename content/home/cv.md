@@ -60,7 +60,7 @@ weight = 3
     years = "Since 2016"
 
 [[honor.fellowships]]
-  name = "Funder and scientific advisor of the startup [Lighton](lighton.ai)"
+  name = "Funder and scientific advisor of the startup [Lighton](http://www.lighton.ai)"
   years = "2016"
   
 [[honor.fellowships]]
