@@ -30,3 +30,5 @@ email: "jonathan.dong@ens.fr"
 user_groups:
 - Grad Students
 ---
+
+Jonathan Dong received his Bachelor’s degree and Master’s degree in physics at Ecole Normale Supérieure (ENS, Paris), in 2014 and 2016 respectively. He is currently pursuing his Ph.D. degree under the joint supervision of Pr. Sylvain Gigan (Laboratoire Kastler-Brossel, Paris) and Pr. Florent Krzakala (Laboratoire de Physique de l’Ecole Normale Supérieure, Paris). His research focuses on optical computing, machine learning, nonlinear optimization, and computational imaging.
