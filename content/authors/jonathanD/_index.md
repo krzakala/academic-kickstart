@@ -10,15 +10,17 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd student
+role: Phd student (co-supervised with Pr. Sylvain Gigan, LKB)
 
 # Organizations/Affiliations
 organizations:
-- name: Ecole Normale Superieure
-  url: ""
+- name: Laboratoire de Physique de l'ENS (LPENS)
+  url: "http://lpens.phys.ens.fr/fr"
+- name: Laboratoire Kastler-
+  url: "http://www.lkb.upmc.fr"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include Statistical Physics, Machine Learning, Statistics, Computer Science, and Computational Optics. 
+bio: Jonathan Dong received his Bachelor’s degree and Master’s degree in physics at Ecole Normale Supérieure (ENS, Paris), in 2014 and 2016 respectively. He is currently pursuing his Ph.D. degree under the joint supervision of Pr. Sylvain Gigan (Laboratoire Kastler-Brossel, Paris) and Pr. Florent Krzakala (Laboratoire de Physique de l’Ecole Normale Supérieure, Paris). His research focuses on optical computing, machine learning, nonlinear optimization, and computational imaging.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jonathan.dong@ens.fr"
