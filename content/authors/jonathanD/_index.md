@@ -16,7 +16,7 @@ role: Phd student (co-supervised with Pr. Sylvain Gigan, LKB)
 organizations:
 - name: Laboratoire de Physique de l'ENS (LPENS)
   url: "http://lpens.phys.ens.fr/fr"
-- name: Laboratoire Kastler-
+- name: Laboratoire Kastler-Brossel
   url: "http://www.lkb.upmc.fr"
 
 # Short bio (displayed in user profile at end of posts)
