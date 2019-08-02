@@ -60,7 +60,7 @@ weight = 3
     years = "Since 2016"
   
 [[honor.fellowships]]
-    name = "Visiting Professor @ Duke University"
+    name = "Visiting Professor @ Duke University, Maths Dept."
     years = "2018"
 
 [[honor.fellowships]]
