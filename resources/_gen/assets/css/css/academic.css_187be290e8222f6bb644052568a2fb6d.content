@@ -1,0 +1,2 @@
+/* Source Themes Academic v4.3.1 | https://sourcethemes.com/academic/ */
+.collaborator-container{float:left;width:25%;margin-bottom:10px;padding-bottom:10px;min-width:175px;max-height:200px;min-height:100px}.collaborator-image{border-radius:50%;max-height:150px;margin:0 auto}.collaborator-image:hover{border:2px solid #fff}.collaborator-name{font-size:1rem;text-align:center;white-space:nowrap}.collaborator-position{font-size:.75rem;text-align:center;white-space:nowrap}
