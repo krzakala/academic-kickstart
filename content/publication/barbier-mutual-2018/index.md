@@ -8,6 +8,7 @@ abstract: "There has been definite progress recently in proving the variational 
 featured: false
 publication: "*2018 IEEE International Symposium on Information Theory (ISIT)*"
 tags: ["adaptive interpolation method", "compressed sensing", "Estimation", "heuristic replica method", "interpolation", "Interpolation", "matrix algebra", "matrix assumption", "Matrix decomposition", "Multiaccess communication", "Mutual information", "Noise measurement", "noisy linear estimation", "random linear estimation", "random matrix theory", "random processes", "replica formula", "rotationally invariant matrices", "Standards", "variational single-letter formula"]
+url_pdf: "https://ieeexplore.ieee.org/document/8437522"
 doi: "10.1109/ISIT.2018.8437522"
 ---
 
