@@ -8,6 +8,7 @@ abstract: "Echo-State Networks and Reservoir Computing have been studied for mor
 featured: false
 publication: "*2018 IEEE Statistical Signal Processing Workshop (SSP)*"
 tags: ["binary networks", "Cameras", "chaos", "chaotic Mackey-Glass time series", "dense random matrices", "Digital Micromirror Device", "Echo-State Network", "Echo-State Networks", "light scattering", "light-scattering media", "Machine Learning", "matrix algebra", "micromirrors", "multiple light scattering", "Neurons", "Nonlinear optics", "Optical Computing", "Optical scattering", "Optical signal processing", "recurrent neural nets", "Recurrent Neural Networks", "Reservoir Computing", "Reservoirs", "time series"]
+url_pdf: "https://ieeexplore.ieee.org/document/8450698"
 doi: "10.1109/SSP.2018.8450698"
 ---
 
