@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd student
+role: Phd student (co-supervised with G. Semerjian)
 
 # Organizations/Affiliations
 organizations:
