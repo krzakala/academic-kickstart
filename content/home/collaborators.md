@@ -23,7 +23,14 @@ weight = 69
 	position = "Google Deepmind"
 	link = "https://deepmind.com/"
 	show = true
-
+  
+[[collaborator]]
+	id = "Marylou Gabrié"
+	image = "marylou.jpg"
+	position = "Postdoc. @ NYU & Flatiron"
+	link = "https://www.linkedin.com/in/marylou-gabri%C3%A9-95366172/?originalSubdomain=fr"
+	show = true
+  
 [[collaborator]]
 	id = "Christophe Schulke"
 	image = "cris.schulke.jpg"
