@@ -8,6 +8,7 @@ abstract: "We consider the problem of estimating the rank-one perturbation of a 
 featured: false
 publication: "*2018 IEEE International Symposium on Information Theory (ISIT)*"
 tags: ["concentration-of-measure arguments", "entropy", "Franz-Parisi potential", "free entropy", "fundamental limits", "Gaussian interpolations", "interpolation", "matrix algebra", "mutual information", "normalized Kullback-Leibler divergence", "null models", "planted models", "principal component analysis", "rank-one perturbation", "replica formula", "replica-symmetric formula", "signal-to-noise ratio", "spiked tensor models", "spiked Wigner model", "standard concentration-of-measure arguments", "tensors", "transparent proof", "Wigner distribution", "Wigner matrix"]
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/8437810"
 doi: "10.1109/ISIT.2018.8437810"
 ---
 
