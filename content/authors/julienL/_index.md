@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Ruben Ohana
+name: Julien Launay
 
 # Username (this should match the folder name)
 authors:
-- rubenO
+- julienL
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Phd Student at LightOn
+role: Phd student at LightOn inc
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include Statistical Physics, Machine Learning, Statistics, Computer Science, and Computational Optics. 
+# bio: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ruben.ohana@gmail.com"
+email: "julien@lighton.io"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
