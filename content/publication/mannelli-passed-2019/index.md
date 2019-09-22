@@ -8,5 +8,6 @@ abstract: "In this work we analyse quantitatively the interplay between the loss
 featured: false
 publication: "*International Conference on Machine Learning*"
 url_pdf: "http://proceedings.mlr.press/v97/mannelli19a.html"
+doi: "PMLR 97:4333-4342"
 ---
 
