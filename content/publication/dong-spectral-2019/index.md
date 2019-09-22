@@ -8,6 +8,7 @@ abstract: "We introduce a generalized version of phase retrieval called multiple
 featured: false
 publication: "*ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*"
 tags: ["Covariance matrices", "Eigenvalues and eigenfunctions", "Imaging", "imaging in complex media", "matrix factorization", "Media", "multiplexed phase retrieval", "Multiplexing", "Phase measurement", "Phase retrieval", "random matrix theory", "Scattering"]
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/8682329"
 doi: "10.1109/ICASSP.2019.8682329"
 ---
 
