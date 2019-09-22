@@ -8,7 +8,7 @@ abstract: "We study the approximate message-passing decoder for sparse superposi
 featured: false
 publication: "*IEEE Transactions on Information Theory*"
 tags: ["additive white Gaussian noise channel", "approximate message-passing", "AWGN channels", "capacity achieving", "channel coding", "Channel coding", "compressed sensing", "Compressed sensing", "Couplings", "Decoding", "error-correcting codes", "fast Hadamard operator", "fast Hadamard-based operator", "finite code length reconstruction", "Hadamard codes", "heuristic statistical-physics-based tools", "iterative decoder", "iterative decoding", "low density parity check codes", "message passing", "message-passing decoder", "parity check codes", "Parity check codes", "power allocation", "power allocation strategy", "replica analysis", "Resource management", "Shannon capacity", "sparse superposition codes", "Sparse superposition codes", "spatial coupling", "state evolution"]
-url_pdf:"https://ieeexplore.ieee.org/document/7944629"
+url_pdf: "https://ieeexplore.ieee.org/document/7944629"
 doi: "10.1109/TIT.2017.2713833"
 ---
 
