@@ -8,6 +8,7 @@ abstract: "In compressed sensing one measures sparse signals directly in a compr
 featured: false
 publication: "*2013 IEEE International Conference on Acoustics, Speech and Signal Processing*"
 tags: ["Bayes methods", "Bayes-optimal reconstruction", "Belief propagation", "compressed sensing", "Compressed sensing", "linear transform", "matrix uncertainty", "mean square error methods", "mean-squared error determination", "Measurement uncertainty", "message passing", "Message passing", "Noise", "Noise measurement", "Performance analysis", "replica method", "robust approximate message passing alogorithm", "Robustness", "signal reconstruction", "sparse matrices", "sparse signal measurement", "transforms", "Uncertainty"]
+url_pdf: "https://ieeexplore.ieee.org/document/6638719"
 doi: "10.1109/ICASSP.2013.6638719"
 ---
 
