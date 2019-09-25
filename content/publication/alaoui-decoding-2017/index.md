@@ -8,6 +8,7 @@ abstract: "We consider the problem of decoding a discrete signal of categorical 
 featured: false
 publication: "*2017 IEEE International Symposium on Information Theory (ISIT)*"
 tags: ["Algorithm design and analysis", "AMP algorithm", "approximate message passing", "Approximation algorithms", "approximation theory", "discrete signal", "Heuristic algorithms", "histograms", "Histograms", "Information theory", "Mathematical model", "message passing", "Message passing", "phase transformations", "phase transitions", "pooled data decoding", "pooled subsets", "SE equations", "set theory", "state evolution equations"]
+url_pdf: "https://ieeexplore.ieee.org/document/8007036"
 doi: "10.1109/ISIT.2017.8007036"
 ---
 
