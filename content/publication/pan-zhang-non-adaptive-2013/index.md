@@ -8,6 +8,7 @@ abstract: "We study non-adaptive pooling strategies for detection of rare faulty
 featured: false
 publication: "*2013 IEEE International Conference on Communications Workshops (ICC)*"
 tags: ["Algorithm design and analysis", "binary sparse signal", "compressed genotyping", "compressed sensing", "Compressed sensing", "fault detection", "fault diagnosis", "genetic screening", "N dimensional signal", "Noise", "Noise measurement", "non-adaptive pooling strategy", "rare faulty item", "signal reconstruction", "sparse binary pooling matrix", "sparse matrices", "Sparse matrices", "Testing", "Vectors"]
+url_pdf: "https://ieeexplore.ieee.org/document/6649458"
 doi: "10.1109/ICCW.2013.6649458"
 ---
 
