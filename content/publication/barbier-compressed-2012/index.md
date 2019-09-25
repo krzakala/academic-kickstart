@@ -8,6 +8,7 @@ abstract: "Compressed sensing is designed to measure sparse signals directly in 
 featured: false
 publication: "*2012 50th Annual Allerton Conference on Communication, Control, and Computing (Allerton)*"
 tags: ["approximately-sparse signals", "Approximation algorithms", "Bayes methods", "Bayes-optimal reconstruction", "compressed sensing", "Compressed sensing", "dense random matrices", "Density measurement", "G-AMP algorithm", "Gaussian distribution", "Mathematical model", "matrix algebra", "mean square error methods", "mean-squared error", "measurement rate", "Noise measurement", "optimal reconstruction", "Optimized production technology", "phase transitions", "seeding design", "signal reconstruction", "Sparse matrices", "spatially-coupled measurement matrix"]
+url_pdf: "https://ieeexplore.ieee.org/document/6483300/"
 doi: "10.1109/Allerton.2012.6483300"
 ---
 
