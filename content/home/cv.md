@@ -56,6 +56,10 @@ weight = 3
   years = "Since 2015"
 
 [[honor.fellowships]]
+  name = "Holder of a Prairie Institute AI Chair"
+  years = "Since 2019"
+
+[[honor.fellowships]]
     name = "Holder of the chair CFM-ENS on datascience"
     years = "Since 2016"
   
