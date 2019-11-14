@@ -6,7 +6,7 @@ authors: ["Stefano Sarao Mannelli", "Florent Krzakala", "Pierfrancesco Urbani", 
 publication_types: ["1"]
 abstract: "In this work we analyse quantitatively the interplay between the loss landscape and performance of descent algorithms in a prototypical inference problem, the spiked matrix-tensor model. We study a..."
 featured: false
-publication: "*International Conference on Machine Learning*"
+publication: "*International Conference on Machine Learning (ICML 2019)*"
 url_pdf: "http://proceedings.mlr.press/v97/mannelli19a.html"
 doi: "PMLR 97:4333-4342"
 ---
