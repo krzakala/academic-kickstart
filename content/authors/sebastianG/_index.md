@@ -23,7 +23,7 @@ The main theme of Sebastian's current research is to understand how neural netwo
 
 Before joining the SPHINX group, Sebastian was a post-doc in the group of Lenka Zdeborová at IPhT in Paris. He studied physics at the University of Cambridge and received his PhD from the University of Stuttgart, where he worked on the stochastic thermodynamics of learning under the supervision of Udo Seifert.
 
-www.sgoldt.com
+[Visit Sebastian's website](www.sgoldt.com)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "goldt.sebastian@gmail.com"
