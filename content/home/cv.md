@@ -10,7 +10,7 @@ subtitle = ""
 widget = "CV"
 
 # CV location
-cv_pdf = "http://www.lps.ens.fr/~krzakala/cv_krzakala.pdf"
+cv_pdf = "files/cv_krzakala.pdf"
 
 # group logo location
 # group_logo = "http://vignette4.wikia.nocookie.net/eberron/images/7/7c/114862_CN_GL.jpg/revision/latest?cb=20111007220917"

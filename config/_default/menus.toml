@@ -32,5 +32,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "http://www.lps.ens.fr/~krzakala/cv.pdf"
+    url = "files/cv_krzakala.pdf"
     weight = 70
