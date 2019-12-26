@@ -24,9 +24,12 @@ weight = 3
   interests = [
     "Statistical Physics",
     "Machine learning",
-    "Random Optimization Problems",
-    "Inference on graphs",
+    "Statistics",
+    "Computer Science",
+    "Random Optimization",
+    "Signal Processing",
     "Information theory",
+    "Inference on graphs",
     "Computational optics"
   ]
 
