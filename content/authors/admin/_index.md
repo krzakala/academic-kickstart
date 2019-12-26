@@ -18,7 +18,7 @@ organizations:
   url: "http://lpens.phys.ens.fr/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Statistical Physics, Machine Learning, Statistics, Computer Science, and Computational Optics. 
+bio: My research interests include Statistical Physics, Machine Learning, Statistics, Computer Science, Signal Processing and Computational Optics. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -58,6 +58,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Florent Krzakala is a professor at Sorbonne Université and a Researcher at Ecole Normale Superieure in Paris. His research interests include Statistical Physics, Machine Learning, Statistics, Computer Science and Computational Optics. He leads the SPHINX “Statistical PHysics of INformation eXtraction” team in Ecole Normale in Paris, and is the holder of the [CFM-ENS Datascience chair](https://data-ens.github.io/) and of a [PRAIRIE Institute chair](https://prairie-institute.fr/chairs/). He is also the funder and scientific advisor of the startup [Lighton](http://www.lighton.ai).
+Florent Krzakala is a professor at Sorbonne Université and a Researcher at Ecole Normale Superieure in Paris. His research interests include Statistical Physics, Machine Learning, Statistics, Signal Processing, Computer Science and Computational Optics. He leads the SPHINX “Statistical PHysics of INformation eXtraction” team in Ecole Normale in Paris, and is the holder of the [CFM-ENS Datascience chair](https://data-ens.github.io/) and of a [PRAIRIE Institute chair](https://prairie-institute.fr/chairs/). He is also the funder and scientific advisor of the startup [Lighton](http://www.lighton.ai).
 
 <img src="http://www.lps.ens.fr/~krzakala/mylogo.png" alt="mylabs" width="600"/>
