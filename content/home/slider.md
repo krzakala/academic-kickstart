@@ -48,6 +48,21 @@ height = "500"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
+
+[[item]]
+  title = "Learning with (realistic?) synthetic data"
+  content = "NeurIPS2019 workshop: Science meets Engineering of Deep Learning"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "NeurIPS2019.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Watch talk"
+  cta_url = "https://slideslive.com/38922054/science-meets-engineering-of-deep-learning-1?t=3600"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+
 [[item]]
   title = "Selected review of 30 years of physics research on artificial neural networks"
   content = "KITP Conference: The Rough High-Dimensional Landscape Problem"
