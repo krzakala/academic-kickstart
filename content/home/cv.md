@@ -55,11 +55,15 @@ weight = 3
   years = "Since 2013"
   
 [[honor.fellowships]]
-  name = "Member of the Insitut Universitaire de France"
+  name = "Member of the Institut Universitaire de France"
   years = "Since 2015"
 
 [[honor.fellowships]]
   name = "Holder of a Prairie Institute AI Chair"
+  years = "Since 2019"
+
+[[honor.fellowships]]
+  name = "Member of the ELLIS society"
   years = "Since 2019"
 
 [[honor.fellowships]]
