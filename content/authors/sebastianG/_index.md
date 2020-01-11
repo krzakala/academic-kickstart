@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc PRAIRIE
+role: Postdoc ANR PAIL
 
 # Organizations/Affiliations
 organizations:
