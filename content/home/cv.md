@@ -63,7 +63,7 @@ weight = 3
   years = "Since 2019"
 
 [[honor.fellowships]]
-  name = "Member of the ELLIS society"
+  name = "Member  and Fellow of the ELLIS society"
   years = "Since 2019"
 
 [[honor.fellowships]]
