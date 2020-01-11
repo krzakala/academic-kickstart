@@ -16,4 +16,7 @@ user_groups = ["Grad Students",
 +++
 
 The SPHINX team acknowledge funding from:
-<img src="http://www.lps.ens.fr/~krzakala/sponsor.png" alt="fundings" width="600"/>
+
+<p class="aligncenter">
+<img src="img/logo.png" alt="fundings" width="800">
+</p>
