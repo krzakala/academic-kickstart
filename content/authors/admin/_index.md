@@ -62,6 +62,6 @@ Florent Krzakala is a professor at Sorbonne Université and a Researcher at Ecol
 
 <img src="http://www.lps.ens.fr/~krzakala/mylogo.png" alt="mylabs" width="600"/>
 
-<b> We are organising a <a target="_top" href="http://leshouches2020.krzakala.org/"> school in Les Houches in August 2020 on Statistical Physics of Machine Learning</a></b>. If you are a Post-doc or Phd student insterested in this topics consider <a target="_top" href="https://formulaires.univ-grenoble-alpes.fr/en/houches-application-form-august-2020"> applying </a> before March 15, 2020. 
+<b> We are organising a <a target="_top" href="http://leshouches2020.krzakala.org/"> school in Les Houches in August 2020 on Statistical Physics of Machine Learning</a></b>. If you are a Post-doc or Phd student interested in these topics, consider <a target="_top" href="https://formulaires.univ-grenoble-alpes.fr/en/houches-application-form-august-2020"> applying </a> before March 15, 2020. 
 
 
