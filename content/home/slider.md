@@ -35,6 +35,21 @@ height = "500"
   cta_icon = "graduation-cap"
 
 [[item]]
+  title = "Statistics and Computations in high dimensions"
+  content = "The Alan Turing Institute"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "alanturing.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "Watch talk"
+  cta_url = "https://www.youtube.com/watch?v=yxHusAzG4Sg&t=50m51s"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+  
+
+[[item]]
   title = "Statistical Physics and Machine Learning: Old ideas for new problems"
   content = "KITP Conference: At the Crossroad of Physics and Machine Learning"
   align = "center"
