@@ -61,3 +61,7 @@ user_groups:
 Florent Krzakala is a professor at Sorbonne Université and a Researcher at Ecole Normale Superieure in Paris. His research interests include Statistical Physics, Machine Learning, Statistics, Signal Processing, Computer Science and Computational Optics. He leads the SPHINX “Statistical PHysics of INformation eXtraction” team in Ecole Normale in Paris, and is the holder of the [CFM-ENS Datascience chair](https://data-ens.github.io/) and of a [PRAIRIE Institute chair](https://prairie-institute.fr/chairs/). He is also the funder and scientific advisor of the startup [Lighton](http://www.lighton.ai).
 
 <img src="http://www.lps.ens.fr/~krzakala/mylogo.png" alt="mylabs" width="600"/>
+
+<b> We are organising a <a target="_top" href="http://leshouches2020.krzakala.org/"> school in Les Houches in August 2020 on Statistical Physics of Machine Learning</a></b>. If you are a Post-doc or Phd student insterested in this topics consider <a target="_top" href="https://formulaires.univ-grenoble-alpes.fr/en/houches-application-form-august-2020"> applying </a> before March 15, 2020. 
+
+
