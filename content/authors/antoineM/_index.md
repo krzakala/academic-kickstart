@@ -28,3 +28,8 @@ email: "antoine.maillard@ens.fr"
 user_groups:
 - Grad Students
 ---
+
+
+I am a PhD student in Ecole Normale Supérieure de Paris under the supervision of Florent Krzakala and Lenka Zdeborová. My research is at the intersection of high-dimensional statistics, statistical physics, information theory and random matrix theory. In fall 2019 I am also a teaching assistant for the course Mathematics for Physicists at the physics department of Ecole Normale Supérieure.
+
+[Visit Antoine's website](https://anmaillard.github.io/)
