@@ -74,7 +74,7 @@ height = "500"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Watch talk"
-  cta_url = "https://slideslive.com/38922054/science-meets-engineering-of-deep-learning-1?t=3600"
+  cta_url = "https://slideslive.com/38922450/learning-with-realistic-synthetic-data"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
