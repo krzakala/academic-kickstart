@@ -1,0 +1,87 @@
+Organizers
+---------
+<li>Silvio Franz, LPTMS, Orsay, France </li>
+<li>Florent Krzakala, ESPCI, Paris, France </li>
+<li>Giorgio Parisi, La Sapienza, Rome, Italy </li>
+<li>Federico Ricci-Tersenghi, La Sapienza, Rome, Italy </li>
+<li>Lenka Zdeborova, CEA & CNRS, Saclay, France </li>
+
+
+Invited speakers
+-------------
+<li> Andrea Cavagna, ISC-CNR, Italy </li>
+<li> Misha Chertkov, Los Alamos, U.S.A. </li>
+<li> Amin Coja-Oghlan, Warwick, UK </li>
+<li> Luca Dall'Asta, Torino, Italy </li>
+<li> David Gamarnik, MIT, U.S.A. </li>
+<li> Irene Giardina, ISC-CNR, Italy </li>
+<li> Yoshiyuki Kabashima, Tokyo Tech, Japan  </li>
+<li> Bert Kappen, Nijmegen, Netherlands </li>
+<li> Brian Karrer, Univ. of Michigan, U.S.A </li>
+<li> Imre Kondor, Eotvos Univ., Hungary </li>
+<li> Marc Mezard, Orsay, France </li>
+<li> Hiroki Ohta, Orsay, France  </li>
+<li> Guilhem Semerjian, ENS, France </li>
+<li> Devavrat Shah, MIT, U.S.A </li>
+<li> Rudiger Urbanke, EPFL, Switzerland  </li>
+<li> Johan Wastlund, Chalmers Univ., Sweden</li> 
+<li> Chris Wiggins, Columbia, U.S.A. </li>
+<li> Jonathan Yedidia, Disney Research, U.S.A. </li>
+<li> Riccardo Zecchina, Torino, Italy </li>
+
+
+Contributed talks: 
+---------------
+Fabrizio Altarelli, Postdoc, Politecnico di Torino, Collegio Carlo Alberto, Italy
+Maria Chiara Angelini, Student, Dip. di fisica, La sapienza, Roma, Italy 
+Victor Bapst, Student, LPT-ENS, France 
+Dapeng Bi, Student, Brandeis University, U.S.A. 
+Stefan Boettcher, Faculty, Emory University, U.S.A.
+Rui da Costa, Student, University of Aveiro, Portugal 
+Aurelien Decelle, Postdoc, Università di Roma - La Sapienza, Italy
+Jacob Goldberger, Faculty, Bar-Ilan University, Israel 
+Tatsuro Kawamoto, Student, Depertment of Physics, The University of Tokyo, Japan 
+Antonin Klic, Student, Institute of Physics, ASCR v.v.i., Czech
+Anton Klimovsky, Postdoc, EURANDOM, Eindhoven University of Technology, Netherlands
+Mathieu Leconte, Student, Technicolor - INRIA, France 
+Marinho Lopes, Student, Departamento de Física, Universidade de Aveiro, Portugal 
+Mario Nicodemi, Researcher, Universita' di Napoli "Federico II", Italy 
+Jack Raymond, Postdoc, University of Rome, La Sapienza, Italy
+Joerg Reichardt, Postdoc, Univerity of Wuerzburg, Germany
+Nico Riedel, Student, Institute of Theoretical Physics, Cologne University, Germany
+Jinwoo Shin, Postdoc, Georgia Tech, U.S.A.
+Orahcio Sousa, Student, Universidade de Aveiro, Portugal
+Yifan Sun, Student, Beihang University, Beijing, China
+Marija Vucelja, Postdoc, Courant Institute of Mathematical Sciences, U.S.A.
+Marc Vuffray, Student, EPFL, Switzerland 
+Haijun Zhou, Researcher, Institute of Theoretical Physics, Chinese Academy of Sciences, China
+
+
+
+Participants:
+----------
+Alejandro Marcos Alvarez, Student, SystMod, University of Liege, Belgium 
+Vahid Aref, Student, EPFL, Switzerland 
+Indaco Biazzo, Student, Politecnico of Turin, Italy 
+Francesco Caltagirone, Student, Università di Roma La Sapienza, Italia
+Andrei Giurgiu, Student, EPFL IC LTHC, Switzerland 
+Marco Guidetti, Postdoc, BiFi, University of Zaragoza, Spain
+Smarajit Karmakar, Postdoc, University of Rome, Italy 
+Marc Lelarge, Researcher, INRIA-ENS, France
+Andrey Lokhov, Student, LPTMS University Paris-Sud, Orsay, France 
+Nicolas Macris, Faculty, EPFL, Switzerland
+Francesca Mancini, Student, SISSA Trieste, Italy
+Mateo Marsili, Researcher, ICTP Trieste, Italy
+Flaviano Morone, Student, La Sapienza, Roma,  Italy
+Tony Ng, Student, Brandeis University, U.S.A. 
+Chau Nguyen, Student, Institute for Theoretical Physics, Cologne University, Germany 
+Tommaso Rizzo, Researcher, IPCF CNR, Italy
+François Sausset, Postdoc, LPTMS, Orsay, France
+Alessandro Seganti, Student, Università La Sapienza, Italy 
+David Sherrington, Faculty, University of Oxford, UK
+Pierfrancesco Urbani, Student, LPTMS Univ. Paris Sud, Orsay, Italy 
+Chuang Wang, Student, Institute of Theoretical Physics, Chinese Academy of Sciences, China 
+Martin Weigt, Faculty, Universite Pierre & Marie Curie, France
+Marco Winkler, Student, University of Wuerzburg, Germany 
+
+
