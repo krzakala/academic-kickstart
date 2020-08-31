@@ -23,7 +23,14 @@ weight = 69
 	position = "Google Deepmind"
 	link = "https://deepmind.com/"
 	show = true
-  
+
+[[collaborator]]
+	id = "Sebastian Goldt"
+	image = "sebastian.goldt.jpg"
+	position = "Prof. @ SISSA Trieste"
+	link = "http://www.sgoldt.com"
+	show = true
+
 [[collaborator]]
 	id = "Marylou Gabrié"
 	image = "marylou.jpg"
@@ -61,7 +68,7 @@ weight = 69
 
 [[collaborator]]
 	id = "Andre Manoel"
-  image = "andre.manoel.jpg"
+    image = "andre.manoel.jpg"
 	position = "Owkin inc."
 	link = "https://owkin.com/About-Us/"
 	show = true
@@ -97,7 +104,7 @@ weight = 69
 
 [[collaborator]]
 	id = "Angelique Dremeau"
-  image = "angelique.dremeau.jpg"
+    image = "angelique.dremeau.jpg"
 	position = "Assoc. Prof. @ ENSTA"
 	link = "http://angelique.dremeau.free.fr/Site_anglais/Home.html"
 	show = true
