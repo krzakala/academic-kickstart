@@ -51,16 +51,20 @@ weight = 3
 
 # List your honors
 [[honor.fellowships]]
+  name = "Full Professor, Physics and EE, EPFL, Switzerland"
+  years = "Since 2020"
+
+[[honor.fellowships]]
   name = "Professor UPMC and Researcher at Ecole Normale Superieure, Paris"
-  years = "Since 2013"
+  years = "2013-2020"
   
 [[honor.fellowships]]
   name = "Member of the Institut Universitaire de France"
-  years = "Since 2015"
+  years = "2015-2020"
 
 [[honor.fellowships]]
   name = "Holder of a Prairie Institute AI Chair"
-  years = "Since 2019"
+  years = "2019-2020"
 
 [[honor.fellowships]]
   name = "Member  and Fellow of the ELLIS society"
@@ -68,7 +72,7 @@ weight = 3
 
 [[honor.fellowships]]
     name = "Holder of the chair CFM-ENS on datascience"
-    years = "Since 2016"
+    years = "2016-2020"
   
 [[honor.fellowships]]
     name = "Visiting Professor @ Duke University, Maths Dept."

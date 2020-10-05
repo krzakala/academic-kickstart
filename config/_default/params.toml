@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "florent.krzakala@ens.fr"
-phone = "+33 (0)1 44 32 25 82"
-address = "24 Rue Lhomond, 75231 PARIS Cedex 05, France"
+email = "florent.krzakala@epfl.ch"
+phone = "+41 21 693 31 87"
+address = "EPFL, IdePHICS lab, ELD 239, Station 11 CH-1015 Lausanne"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -81,9 +81,9 @@ contact_links = []
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = "AIzaSyD6b1SBrqdyvPCjZIoNPwfkzHbtv2ahVXA"
-latitude = "48.842960"
-longitude = "2.347000"
-zoom = 15
+latitude = "46.51900"
+longitude = "6.56396"
+zoom = 13
 
 ############################
 ## Plugins                ##

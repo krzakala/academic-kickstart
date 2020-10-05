@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor
+role: Full Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Sorbonne Université and Ecole Normale Superieure
-  url: "http://lpens.phys.ens.fr/en"
+- name: École polytechnique fédérale de Lausanne
+  url: "https://www.epfl.ch/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Statistical Physics, Machine Learning, Statistics, Computer Science, Signal Processing and Computational Optics. 
+bio: My research interests include Statistical physics, Machine learning, Statistics, Probablity, Computer science, Signal processing and Computational optics. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -27,7 +27,7 @@ bio: My research interests include Statistical Physics, Machine Learning, Statis
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:florent.krzakala@ens.fr
+  link: mailto:florent.krzakala@epfl.ch
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCSHbb0xOaJZJWPEB3nLDbRg
@@ -58,10 +58,19 @@ user_groups:
 - Principal Investigators
 ---
 
-Florent Krzakala is a professor at Sorbonne Université and a Researcher at Ecole Normale Superieure in Paris. His research interests include Statistical Physics, Machine Learning, Statistics, Signal Processing, Computer Science and Computational Optics. He leads the SPHINX “Statistical PHysics of INformation eXtraction” team in Ecole Normale in Paris, and is the holder of the [CFM-ENS Datascience chair](https://data-ens.github.io/) and of a [PRAIRIE Institute chair](https://prairie-institute.fr/chairs/). He is also the funder and scientific advisor of the startup [Lighton](http://www.lighton.ai).
+Florent Krzakala is a full professor at École polytechnique fédérale
+de Lausanne in Switzerland. His research interests include Statistical
+Physics, Machine Learning, Statistics, Signal Processing, Computer
+Science and Computational Optics. He leads the IdePHICS “Information,
+Learning and Physics" laboratory in the Physics and Engineering
+departments in EPFL. He is also the funder and scientific advisor of
+the startup [Lighton](http://www.lighton.ai).
 
-<img src="http://www.lps.ens.fr/~krzakala/mylogo.png" alt="mylabs" width="600"/>
-
+<img
+src="https://upload.wikimedia.org/wikipedia/commons/e/e2/EPFL_campus_2017.jpg"
+alt="mylabs" width="500"/>
+<img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/440px-Logo_EPFL.svg.png" width="200"/>
 
 
 
