@@ -72,5 +72,5 @@ alt="mylabs" width="500"/>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/440px-Logo_EPFL.svg.png" width="200"/>
 
-
+I am curently looking for Ph.D students and postdocs. Send me a mail!
 
