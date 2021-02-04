@@ -60,11 +60,41 @@ weight = 69
         show = true
 
 [[collaborator]]
+        id = "Gabriele Sicuro"
+        image = "gabriele.sicuro.jpg"
+        position = "Prof. @ king's collage, Londonc"
+        link = "https://scholar.google.com/citations?user=Lls7QvUAAAAJ&hl=en"
+        show = true
+
+[[collaborator]]
 	id = "Eric Trammel"
         image = "eric.trammel.jpg"
 	position = "Owkin inc."
 	link = "http://eric-tramel.github.io/about/"
 	show = true
+
+[[collaborator]]
+        id = "Alia Abbara"
+        image = "alia.abbara.jpg"
+        position = "Postdoc @ EPFL"
+        link = "https://people.epfl.ch/alia.abbara"
+        show = true
+
+
+[[collaborator]]
+        id = "Jonathan Dong"
+        image = "jonathan.dong.jpg"
+        position = "Postdoc @ EPFL"
+        link = "https://people.epfl.ch/jonathan.dong"
+        show = true
+
+[[collaborator]]
+        id = "Luca Saglietti"
+        image = "luca.saglietti.jpg"
+        position = "Postdoc @ EPFL"
+        link = "https://people.epfl.ch/luca.saglietti"
+        show = true
+
 
 [[collaborator]]
 	id = "Andre Manoel"
