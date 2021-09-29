@@ -11,6 +11,13 @@ subtitle = "... and where to find them"
 weight = 69
 
 [[collaborator]]
+	id = "Marylou Gabrié"
+	image = "marylou.jpg"
+	position = "Prof. @ Ecole Polytechnique"
+	link = "https://marylou-gabrie.github.io/"
+	show = true
+	
+[[collaborator]]
 	id = "Jean Barbier"
 	image = "jean.barbier.jpg"
 	position = "Prof. @ ICTP Trieste"
@@ -31,13 +38,6 @@ weight = 69
 	link = "http://www.sgoldt.com"
 	show = true
 
-[[collaborator]]
-	id = "Marylou Gabrié"
-	image = "marylou.jpg"
-	position = "Postdoc. @ NYU & Flatiron"
-	link = "https://www.linkedin.com/in/marylou-gabri%C3%A9-95366172/?originalSubdomain=fr"
-	show = true
-  
 [[collaborator]]
 	id = "Christophe Schulke"
 	image = "cris.schulke.jpg"
@@ -62,7 +62,7 @@ weight = 69
 [[collaborator]]
         id = "Gabriele Sicuro"
         image = "gabriele.sicuro.jpg"
-        position = "Prof. @ king's collage, Londonc"
+        position = "Prof. @ king's college, London"
         link = "https://scholar.google.com/citations?user=Lls7QvUAAAAJ&hl=en"
         show = true
 
@@ -80,19 +80,18 @@ weight = 69
         link = "https://people.epfl.ch/alia.abbara"
         show = true
 
-
 [[collaborator]]
-        id = "Jonathan Dong"
-        image = "jonathan.dong.jpg"
-        position = "Postdoc @ EPFL"
-        link = "https://people.epfl.ch/jonathan.dong"
+        id = "Antoine Maillard"
+        image = "antoine.maillard.jpg"
+        position = "Postdoc @ ETHZ"
+        link = "https://people.epfl.ch/alia.abbara"
         show = true
 
 [[collaborator]]
         id = "Luca Saglietti"
         image = "luca.saglietti.jpg"
-        position = "Postdoc @ EPFL"
-        link = "https://people.epfl.ch/luca.saglietti"
+        position = "Prof. @ Bocconi, Milan" 
+        link = "https://scholar.google.it/citations?user=klxwxyUAAAAJ&hl=it"
         show = true
 
 
@@ -138,5 +137,12 @@ weight = 69
 	position = "Assoc. Prof. @ ENSTA"
 	link = "http://angelique.dremeau.free.fr/Site_anglais/Home.html"
 	show = true
-  
+
+
+[[collaborator]]
+        id = "Jonathan Dong"
+        image = "jonathan.dong.jpg"
+        position = "Postdoc @ EPFL"
+        link = "https://people.epfl.ch/jonathan.dong"
+        show = true
 +++
