@@ -69,7 +69,7 @@ weight = 69
 [[collaborator]]
 	id = "Eric Trammel"
         image = "eric.trammel.jpg"
-	position = "Owkin inc."
+	position = "Scientist @ Amazon"
 	link = "http://eric-tramel.github.io/about/"
 	show = true
 
@@ -98,8 +98,8 @@ weight = 69
 [[collaborator]]
 	id = "Andre Manoel"
     image = "andre.manoel.jpg"
-	position = "Owkin inc."
-	link = "https://owkin.com/About-Us/"
+	position = "Microsoft reserach"
+	link = "https://www.linkedin.com/in/andre-manoel/?originalSubdomain=br"
 	show = true
 
 [[collaborator]]
