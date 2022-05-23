@@ -84,7 +84,7 @@ weight = 69
         id = "Antoine Maillard"
         image = "antoine.maillard.jpg"
         position = "Postdoc @ ETHZ"
-        link = "https://people.epfl.ch/alia.abbara"
+        link = "https://anmaillard.github.io/"
         show = true
 
 [[collaborator]]
@@ -145,4 +145,14 @@ weight = 69
         position = "Postdoc @ EPFL"
         link = "https://people.epfl.ch/jonathan.dong"
         show = true
+
+[[collaborator]]
+        id = "Antoine Baker"
+        image = "antoine.baker.jpg"
+        position = "Postdoc @ ENS"
+        link = "https://www.linkedin.com/in/antoine-baker-792840a0/?originalSubdomain=fr"
+        show = true
+
+
 +++
+
