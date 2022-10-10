@@ -46,6 +46,13 @@ weight = 69
 	show = true
 
 [[collaborator]]
+        id = "Bruno Loureiro"
+        image = "bruno.loureiro.jpg"
+        position = "Researcher @ENS"
+        link = "https://brloureiro.github.io/"
+        show = true
+
+[[collaborator]]
 	id = "Pan Zhang"
 	image = "Pan.Zhang.jpg"
 	position = "Prof. @ Chinese Acad. Sci."
@@ -118,6 +125,14 @@ weight = 69
         show = true
 
 [[collaborator]]
+        id = "Maria Refinetti"
+        image = "maria.refinetti.jpg"
+        position =  "G-Research, London"
+        link = "https://www.linkedin.com/in/maria-refinetti?originalSubdomain=fr"
+        show = true
+
+
+[[collaborator]]
         id = "Boshra Rajaei"
         image = "boshra.rajaei.jpg"
         position =  "Assoc. Prof. @ Sadjad Univ."
@@ -129,7 +144,36 @@ weight = 69
 	image = "ale.lage.jpg"
 	position =  "Prof. La Havana"
         link = "https://www.researchgate.net/profile/Alejandro_Lage-Castellanos"
-	show = true
+		show = true
+
+[[collaborator]]
+        id = "Cedric Gerbelot"
+        image = "cedric.gerbelot.jpg"
+        position = "Postdoc @NYU Courrant"
+        link = "https://cgerbelo.github.io/"
+        show = true
+
+[[collaborator]]
+        id = "Antoine Baker"
+        image = "antoine.baker.jpg"
+        position = "Postdoc @ENS"
+        link = "https://www.linkedin.com/in/antoine-baker-792840a0/?originalSubdomain=fr"
+        show = true
+
+
+[[collaborator]]
+        id = "Ruben Ohana"
+        image = "ruben.ohana.jpg"
+        position = "Postdoc @Simons NY"
+        link = "https://rubenohana.github.io/"
+        show = true
+
+[[collaborator]]
+        id = "Jonathan Dong"
+        image = "jonathan.dong.jpg"
+        position = "Postdoc @EPFL"
+        link = "https://people.epfl.ch/jonathan.dong"
+        show = true
 
 [[collaborator]]
 	id = "Angelique Dremeau"
@@ -138,20 +182,6 @@ weight = 69
 	link = "http://angelique.dremeau.free.fr/Site_anglais/Home.html"
 	show = true
 
-
-[[collaborator]]
-        id = "Jonathan Dong"
-        image = "jonathan.dong.jpg"
-        position = "Postdoc @ EPFL"
-        link = "https://people.epfl.ch/jonathan.dong"
-        show = true
-
-[[collaborator]]
-        id = "Antoine Baker"
-        image = "antoine.baker.jpg"
-        position = "Postdoc @ ENS"
-        link = "https://www.linkedin.com/in/antoine-baker-792840a0/?originalSubdomain=fr"
-        show = true
 
 
 +++

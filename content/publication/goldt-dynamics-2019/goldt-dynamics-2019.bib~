@@ -1,7 +1,0 @@
-@article{mannelli2019afraid,
-  title={Who is Afraid of Big Bad Minima? Analysis of Gradient-Flow in a Spiked Matrix-Tensor Model},
-  author={Mannelli, Stefano Sarao and Biroli, Giulio and Cammarota, Chiara and Krzakala, Florent and Zdeborov{\'a}, Lenka},
-   booktitle = {Advances in Neural Information Processing Systems 32},
-  journal={arXiv preprint arXiv:1907.08226},
-  year={2019}
-}
